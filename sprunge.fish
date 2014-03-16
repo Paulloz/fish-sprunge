@@ -1,5 +1,6 @@
 # Just a sprunge wrapper for fish-shell
 # Paul Joannon (paulloz) <paul.joannon@gmail.com>
+# Based on oh-my-zsh's sprunge plugin
 
 function sprunge
     if isatty stdin
