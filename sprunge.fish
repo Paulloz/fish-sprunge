@@ -2,7 +2,7 @@
 # Paul Joannon (paulloz) <paul.joannon@gmail.com>
 
 function sprunge
-    if [ (isatty stdout) -e 1 ]
+    if isatty stdin
         if [ (count $argv) -gt 0 ]
             if [ -f $argv ]
                 cat $argv
