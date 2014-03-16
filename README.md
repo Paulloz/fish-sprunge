@@ -2,7 +2,7 @@
 
 ## Usage
 
-Place (or link) the *.fish* file under your **fish-shell** directory (typically `~/.config/fish/`) in the `function` subdir.  
+Place (or link) the *.fish* file under your **fish-shell** directory (typically `~/.config/fish/`) in the `functions` subdir.  
 
 You can then sprunge:
 
