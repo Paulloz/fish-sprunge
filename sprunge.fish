@@ -1,5 +1,6 @@
 # Just a sprunge wrapper for fish-shell
 # Paul Joannon (paulloz) <paul.joannon@gmail.com>
+# https://github.com/Paulloz/fish-sprunge
 # Based on oh-my-zsh's sprunge plugin
 
 function sprunge
